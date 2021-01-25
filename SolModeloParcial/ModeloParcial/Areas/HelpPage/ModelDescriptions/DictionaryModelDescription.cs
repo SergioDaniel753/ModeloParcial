@@ -1,0 +1,6 @@
+namespace ModeloParcial.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
